@@ -35,4 +35,4 @@ The benchmark experiments utilize four regressors:
 - **Decision Tree**
 - **Support Vector Regressor (SVR)**
 ## Datasets
-In addition to the code, we provide eight datasets used in the evaluation section of the paper. These datasets correspond to predictions formulated on three publicly available event logs: BPIC 2011(https://), BPIC 2015, and BPIC 2017. The preprocessed benchmark datasets can be accessed [here](https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR).
+In addition to the code, we provide eight datasets used in the evaluation section of the paper. These datasets correspond to predictions formulated on three publicly available event logs: [BPIC 2011](https://data.4tu.nl/datasets/5ea5bb88-feaa-4e6f-a743-6460a755e05b/1), [BPIC 2015](https://data.4tu.nl/datasets/64fce6ea-5ca8-403b-aa09-82b53517af8a/1), and [BPIC 2017](https://data.4tu.nl/datasets/5c9717a0-4c22-4b78-a3ad-d2234208bfd7/1). The preprocessed benchmark datasets can be accessed [here](https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR).
