@@ -1,4 +1,4 @@
-# Inter.Intra.Features.PPM
+# Inter.Intra.Case.Features.PPM
 # Repository Overview
 
 This repository contains supplementary material for the article titled **"Enhancing Remaining Time Prediction in Business Processes by Considering System-Level and Resource-Level Inter-Case Features"** by Reza Aalikhani, Mohammad Fathian, and Mohammad Reza Rasouli.
