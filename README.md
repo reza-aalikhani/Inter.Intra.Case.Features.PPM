@@ -9,7 +9,7 @@ This repository provides implementations of various models for remaining time pr
 
 ## Methodology
 
-To enhance time prediction accuracy, we incorporate inter-case features—such as resource multitasking, open cases, and other metrics related to resource behavior—in addition to intra-case features. The primary objective of these techniques is to predict the completion time of cases while minimizing the Mean Absolute Error (MAE).
+To enhance time prediction accuracy, we incorporate inter-case features—such as resource multitasking, open cases, and other metrics related to resource experience—in addition to intra-case features. The primary objective of these techniques is to predict the completion time of cases while minimizing the Mean Absolute Error (MAE).
 
 ## Benchmark Details
 
